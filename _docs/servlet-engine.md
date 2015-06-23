@@ -653,7 +653,7 @@ possibility to secure your servlets with HTTP basic or digest authentication as 
       <file>WEB-INF/htpasswd</file>
     </options>
   </auth>
-</security>
+</security> 
 ```
 
 This protects access, when someone tries to open the URL `http://127.0.0.1:9080/example/helloWorld.do`. It will open a
